@@ -1,8 +1,5 @@
 # Aprendizado por Projeto Integrado (API) - Template
-
-Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+O objetivo deste projeto é dimensionar adequadamente os níveis de Work in Process (WIP) no processo TEB, com base na demanda real da etapa de embalagem, visando garantir um fluxo produtivo equilibrado, estável e eficiente. A proposta busca reduzir excessos de estoque intermediário, diminuir o lead time e aumentar a visibilidade dos problemas operacionais, sem comprometer a continuidade da produção. Dessa forma, o projeto se fundamenta nos princípios do pensamento Lean, priorizando a produção puxada, a eliminação de desperdícios e o alinhamento entre capacidade produtiva e consumo real do processo.
 ![image](https://github.com/user-attachments/assets/6a7b92eb-8031-442f-a037-325593cc8515)
 
 
