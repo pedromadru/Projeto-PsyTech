@@ -169,34 +169,28 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 > Descrever aqui as competências adquiridas e desenvolvidas pela equipe
 
 ## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Lean Manufacturing | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gestão de WIP | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Kanban	| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Power BI| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gestão de Fluxo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
 
 ## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-
-</details>
+| Trabalho em equipe  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Resolução de problemas | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Organização | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gestão do tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 
 # Autores
