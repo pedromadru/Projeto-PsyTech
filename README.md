@@ -83,11 +83,40 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
 ## Tecnologias Utilizadas
+* Ferramentas
+* Excel
+* Power BI
+* GitHub
+* Microsoft Teams
+* Metodologias
+* Lean Manufacturing
+* Scrum
+* Kanban
+* PDCA
+* Gestão Visual
+* Produção Puxada (Pull System)
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+## MVP – Sprint 1: Diagnóstico do Processo
+O Produto: Um modelo visual do fluxo atual e uma ferramenta simples de monitoramento.
 
-### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+O que é feito:
+
+Um Mapeamento de Fluxo de Valor (VSM) desenhado em lousa ou papel com a equipe.
+
+Uma planilha manual (Excel) preenchida pelos operadores para registrar os tempos e o acúmulo de peças antes da embalagem (gargalo).
+
+Objetivo: Provar com dados reais que o modelo atual (Push) gera o excesso de estoque.
+
+## MVP – Sprint 2: Dimensionamento de WIP
+O Produto: Um sistema piloto de fluxo puxado (Pull) operando no Cenário Conservador (~15.000 peças).
+
+O que é feito:
+
+Demarcação física no chão (com fita) limitando o espaço: máximo de 9.000 peças antes do TEB e 6.000 após o TEB. Se o espaço encher, a produção para.
+
+Kanban analógico: Uso de cartões físicos de papel para autorizar a produção entre as etapas.
+
+Objetivo: Testar na prática se o processo sobrevive com 80% menos estoque e se o Lead Time cai para ~1,5 dia sem desabastecer o cliente.
   
 ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
