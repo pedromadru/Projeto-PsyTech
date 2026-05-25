@@ -53,15 +53,21 @@ O objetivo principal do projeto é dimensionar adequadamente os níveis de Work 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
+<img width="1080" height="591" alt="image" src="https://github.com/user-attachments/assets/dbefe3e5-fb91-4c7d-9a45-7b06511f7daa" />
+
 
 https://youtu.be/xpWRq-xp7Cs?si=3VYVxLv7aTYAR1rh)
 
 
 ## Sprint 2
+<img width="1080" height="600" alt="image" src="https://github.com/user-attachments/assets/6c147980-c699-462b-a953-cb21803c09ef" />
+
 
 https://youtu.be/H9k11LjvEso
 
 ## Sprint 3 / Conclusão 
+<img width="1080" height="602" alt="image" src="https://github.com/user-attachments/assets/eeffba06-8d6e-4dc7-89fe-3e70cf70cea3" />
+
 
 https://www.youtube.com/watch?v=_kDIM_-M5uM
 
