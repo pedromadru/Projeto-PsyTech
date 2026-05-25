@@ -61,21 +61,11 @@ https://youtu.be/xpWRq-xp7Cs?si=3VYVxLv7aTYAR1rh)
 
 https://youtu.be/H9k11LjvEso
 
-## Sprint 3
+## Sprint 3 / Conclusão 
+
+https://www.youtube.com/watch?v=_kDIM_-M5uM
 
 
-
-## Sprint 4
->Colocar o vídeo da apresentação
-
-[![SPRINT 4](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
-
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-[![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
 
 ## Tecnologias Utilizadas
@@ -93,29 +83,18 @@ Vídeo com a apresentação final da API do "semestre/ano"
 * Produção Puxada (Pull System)
 ### Produto 
 ## MVP – Sprint 1: Diagnóstico do Processo
-O Produto: Um modelo visual do fluxo atual e uma ferramenta simples de monitoramento.
+A Sprint 1 teve como objetivo definir níveis ideais de estoque intermediário (WIP) no processo TEB da Freudenberg, alinhando a produção à demanda real da embalagem. O estudo identificou excesso de estoque, lead time elevado e falta de controle do fluxo produtivo devido ao sistema empurrado (Push). 
 
-O que é feito:
-
-Um Mapeamento de Fluxo de Valor (VSM) desenhado em lousa ou papel com a equipe.
-
-Uma planilha manual (Excel) preenchida pelos operadores para registrar os tempos e o acúmulo de peças antes da embalagem (gargalo).
-
-Objetivo: Provar com dados reais que o modelo atual (Push) gera o excesso de estoque.
+Como solução, foi proposto reduzir o WIP de 74 mil peças para aproximadamente 6 a 10 mil peças, criando um fluxo mais estável, controlado e eficiente. O projeto também preparou a base para implementação de layout otimizado e sistema puxado (Kanban) nas próximas sprints.
 
 ## MVP – Sprint 2: Dimensionamento de WIP
-O Produto: Um sistema piloto de fluxo puxado (Pull) operando no Cenário Conservador (~15.000 peças).
 
-O que é feito:
+A Sprint 2 teve como objetivo reduzir o excesso de WIP no processo TEB da Freudenberg, alinhando o estoque à demanda de 18 mil peças/dia. O projeto propôs controle visual, limites mínimos e máximos de estoque e implantação do sistema puxado (Pull/Kanban), reduzindo o lead time e melhorando o fluxo produtivo com princípios Lean.
 
-Demarcação física no chão (com fita) limitando o espaço: máximo de 9.000 peças antes do TEB e 6.000 após o TEB. Se o espaço encher, a produção para.
+## MVP – Sprint 3 / conclusão : Layout e conclusão do Projeto
 
-Kanban analógico: Uso de cartões físicos de papel para autorizar a produção entre as etapas.
-
-Objetivo: Testar na prática se o processo sobrevive com 80% menos estoque e se o Lead Time cai para ~1,5 dia sem desabastecer o cliente.
+A Sprint 3 focou na melhoria do layout produtivo e no controle visual do processo. Foram propostas duas soluções de layout para reduzir movimentações, melhorar o fluxo e controlar o WIP. Também foi implementado um sistema Poka-Yoke visual para monitoramento do estoque intermediário, tornando o processo mais organizado, eficiente e alinhado ao Lean Manufacturing.
   
-### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
 
 # Cronograma das Sprints
 | Sprint            | Período         | Principais Atividades              | Status          |
@@ -123,7 +102,7 @@ Objetivo: Testar na prática se o processo sobrevive com 80% menos estoque e se 
 | Kick-off          | 02/03/2026      | Alinhamento inicial e requisitos   | ✅ Concluído     |
 | Sprint 1          | 16/03 até 30/03 | Levantamento e análise do processo | ✅ Concluído     |
 | Sprint 2          | 06/04 até 04/05 | Desenvolvimento da solução         | ✅ Concluído     |
-| Sprint 3          | 11/05 até 25/05 | Implementação e testes             | 🔄 Em andamento |
+| Sprint 3          | 11/05 até 25/05 | Implementação e testes             | ✅ Concluído  |
 | Feira de Soluções | 11/06/2026      | Apresentação final                 | ⏳ A fazer       |
 
 ## Cronograma
