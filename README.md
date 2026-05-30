@@ -11,7 +11,6 @@ O objetivo deste projeto é dimensionar adequadamente os níveis de Work in Proc
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
 * [Cronograma das Sprints](#cronograma-das-sprints)
 * [Backlog do Produto](#backlog-do-produto)
-* [Burndown](#burndown)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
@@ -32,11 +31,8 @@ Sprint | Previsão | Status|
 
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
+<img width="1920" height="1080" alt="Inserir uEEm ttulo" src="https://github.com/user-attachments/assets/57a53cbb-e189-43e5-8e4b-dbbb85482458" />
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
-</p>
 
 # Objetivo do Projeto
 O objetivo principal do projeto é dimensionar adequadamente os níveis de Work in Process (WIP) no processo TEB, com base na demanda real do processo produtivo, garantindo:
@@ -124,35 +120,50 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 * Identificar gargalos operacionais;
 * Gerar indicadores de desempenho;
 * Auxiliar no balanceamento produtivo.
-## Requisitos Não Funcionais
-* Interface simples e intuitiva;
-* Facilidade de atualização dos dados;
-* Alta disponibilidade das informações;
-* Confiabilidade dos indicadores;
-* Organização visual do fluxo produtivo.
-## Burndown
->Colocar aqui Burndown do projeto
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
-</p>
 
 ## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+☑️Levantamento de dados do processo TEB
+☑️ Mapeamento do fluxo produtivo
+☑️ Coleta de informações sobre demanda e consumo
+☑️ Análise do estoque intermediário (WIP)
+☑️ Identificação de gargalos e desperdícios
+☑️ Cálculo do dimensionamento ideal do WIP
+☑️ Comparação entre estoque atual e estoque necessário
+☑️ Desenvolvimento das planilhas de análise
+☑️ Validação dos dados com a empresa
+☑️ Elaboração dos resultados e conclusões
 
 ## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+Levantamento e análise dos dados de produção do processo TEB
+☑️ Mapeamento dos pontos de estoque intermediário (WIP)
+☑️ Coleta dos dados de demanda real do processo
+☑️ Análise do fluxo produtivo e identificação de gargalos
+☑️ Cálculo do estoque intermediário necessário para cada etapa
+☑️ Comparação entre o WIP atual e o WIP ideal
+☑️ Identificação de excessos e oportunidades de redução de estoque
+☑️ Elaboração de proposta para alinhamento do WIP à demanda real
+☑️ Validação dos resultados obtidos com a metodologia aplicada
+☑️ Preparação da documentação e apresentação dos resultados da Sprin
       
 ## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+☑️ Consolidação do Mapa de Fluxo de Valor (VSM) final
+☑️ Validação dos dados coletados nas sprints anteriores
+☑️ Revisão do balanceamento produtivo do processo TEB
+☑️ Análise comparativa entre o layout atual e o layout proposto
+☑️ Identificação de oportunidades de melhoria no fluxo produtivo
+☑️ Avaliação dos impactos da redução de estoques intermediários (WIP)
+☑️ Elaboração das propostas de otimização do layout
+☑️ Validação técnica das melhorias sugeridas
+☑️ Consolidação dos resultados obtidos durante o projeto
+☑️ Elaboração das conclusões e recomendações finais
       
-## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
-
+O projeto desenvolveu competências técnicas em mapeamento de processos (VSM), análise de fluxo produtivo, controle de estoques (WIP), balanceamento de linha, identificação de gargalos, aplicação de Lean Manufacturing, além da coleta e análise de dados para criação de KPIs e melhorias de processos e layout.
+Também foram fortalecidas competências comportamentais como trabalho em equipe, comunicação, pensamento crítico, gestão do tempo, organização em Sprints (Scrum), tomada de decisão baseada em dados e apresentação de resultados.
 ## Hard Skill (saber tecnológico)
   
 | Tecnologia/Metodologia | Classificação |
@@ -178,9 +189,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 
-# Autores
-| Função | Nome |  LinkedIn & GitHub |
-| - | - | - |
-|Product Owner| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+# Autores 
+| Nome |  LinkedIn & GitHub |
+| - | - |
+|Lucas Sanches | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Leonardo Lisboa | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Bruna Murari | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|David | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Vinicius| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Pedro| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
