@@ -31,7 +31,8 @@ Sprint | Previsão | Status|
 
 
 # Equipe
-<img width="1920" height="1080" alt="Inserir uEEm ttulo" src="https://github.com/user-attachments/assets/57a53cbb-e189-43e5-8e4b-dbbb85482458" />
+<img width="1920" height="1080" alt="Inserir uEEm ttulo (1)" src="https://github.com/user-attachments/assets/d4adee59-8f8f-496c-9162-4bd653703539" />
+
 
 
 # Objetivo do Projeto
@@ -197,3 +198,4 @@ Também foram fortalecidas competências comportamentais como trabalho em equipe
 |David | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Vinicius| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Pedro| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Osmã| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
